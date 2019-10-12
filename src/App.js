@@ -1,3 +1,6 @@
+/*
+  App组件代码
+*/
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
